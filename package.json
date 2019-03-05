@@ -1,0 +1,23 @@
+{
+  "name": "experimental-nodejs-es6-template",
+  "version": "1.0.0",
+  "description": "Basic NodeJS experimental es6 modules",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --experimental-modules ./app.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonymedrano/experimental-nodejs-es6-template.git"
+  },
+  "keywords": [],
+  "author": "Tony Medrano <info@tonymedrano.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonymedrano/experimental-nodejs-es6-template/issues"
+  },
+  "homepage": "https://github.com/tonymedrano/experimental-nodejs-es6-template#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
