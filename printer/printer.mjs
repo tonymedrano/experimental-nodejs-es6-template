@@ -1,11 +1,12 @@
 /*
- * Filename: /Users/tonymedrano/Desktop/node-guru/printer.js
- * Path: /Users/tonymedrano/Desktop/node-guru
- * Created Date: Tuesday, January 15th 2019, 1:19:00 pm
+ * Filename: /Users/tonymedrano/Desktop/experimental-nodejs-es6-template/printer/printer.mjs
+ * Path: /Users/tonymedrano/Desktop/experimental-nodejs-es6-template
+ * Created Date: Thursday, January 24th 2019, 12:20:58 am
  * Author: tonymedrano
  * 
  * Copyright (c) 2019 Tony Medrano
  */
+
 
 
 export class Printer {
